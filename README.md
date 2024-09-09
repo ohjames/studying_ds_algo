@@ -1,5 +1,6 @@
 # studying_ds_algo
 
+https://github.com/avgspacelover/Reddit-wiki-programming?tab=readme-ov-file
 https://www.techinterviewhandbook.org/coding-interview-prep/
 
 Depth-first-then-breadth preparation - Tackle one topic at a time - revise materials for a topic, practice a few questions for that topic. After ensuring mastery, move on to the next topic. Repeat for all topics. At the end, practice a variety of questions across all topics. This strategy takes more time than others, so it's recommended if you have more than a month.
@@ -7,8 +8,8 @@ Depth-first-then-breadth preparation - Tackle one topic at a time - revise mater
 Topic	Priority	Time required
 
 Week 1
-- [ ] Array	High	2 hours
-- [ ] String	High	3 hours
+- [x] Array	High	2 hours
+- [x] String	High	3 hours
 - [ ] Hash Table	Mid	3 hours
 - [ ] Recursion	Mid	3 hours
 
